@@ -1,30 +1,34 @@
-Live Website Preview: https://nischint007.github.io/FlowParty/
+# 🌊 Flow Party — A Creative Web Recreation
 
-🌊 Flow Party — A Creative Web Recreation
+**Live Website Preview:** [https://github.com/kolikrish/Flow-Party](https://github.com/kolikrish/Flow-Party)
 
-A pixel-perfect, animation-rich recreation of a No-Code Awwwarded website, built entirely from scratch using GSAP, Lenis, and Vanilla JS.
+A pixel-perfect, animation-rich recreation of an Awwward-winning website, built entirely from scratch. This project demonstrates complex, immersive web experiences using advanced frontend animation libraries.
 
-🎨 About the Project
+## 🎨 About the Project
 
-Flow Party is a vibrant and dynamic website that I recreated from the ground up as a personal challenge and portfolio piece. The original site was built with No-Code tools and recognized by Awwwards, but I rebuilt it entirely with code, using:
+Flow Party is a vibrant and dynamic website recreated from the ground up as a personal challenge and portfolio piece. The original site was built with No-Code tools, but I rebuilt it entirely using comprehensive HTML, CSS, and JS, focusing heavily on modern UI/UX patterns and responsive design architectures.
 
-⚡ Vanilla JavaScript
+### 🛠️ Built With
 
-🌀 GSAP (GreenSock Animation Platform)
+- **Vanilla JavaScript** (ES6+)
+- **GSAP (GreenSock Animation Platform)** (Includes *ScrollTrigger* & *SplitText*)
+- **Lenis** for universally smooth scroll aesthetics
+- **Shery.js** & **Three.js** for advanced immersive and interactive element control
+- **Vanilla-Tilt.js** for slick 3D parallax hover effects
+- **Custom HTML5 & Vanilla CSS3**
 
-🧵 Lenis (Smooth Scroll)
+This project showcases an ability to turn award-winning designs into real, performant, and highly interactive hand-coded web experiences.
 
-💅 Custom HTML5 & CSS3
+## ✨ Key Highlights
 
-This project showcases my ability to turn award-winning designs into real, performant, and immersive web experiences — from scratch.
+- 🔁 **Complex Animations:** Fully recreated scroll-based and timeline animations using GSAP.
+- 📱 **Fully Responsive:** Sleek, dynamic layouts cleanly optimized for both desktop and mobile viewing with zero layout shift.
+- 🦶 **Luxurious Footer Design:** Features a comprehensive, high-aesthetic footer with engaging neon hover styling.
+- 🧠 **Micro-Interactions:** Intense attention to interaction detail, including tracking eyes, scaling text, and color wipes.
+- 🎯 **Performance UX:** Achieved a smooth, consistent UX with Lenis.js to bypass native scroll jaggedness.
+- 💻 **Hand-Coded Engine:** Zero bulky UI frameworks utilized. Simply structured on foundational web technologies.
 
-✨ Key Highlights
-🔁 Fully recreated scroll-based animations using GSAP timelines
+## 👤 Author
 
-💻 Responsive design optimized for both desktop and mobile
-
-🧠 Attention to interaction details and smooth micro-interactions
-
-🎯 Performance-first implementation with Lenis.js and smooth UX
-
-🛠️ Hand-coded structure, no frameworks or site builders used
+**krish koli**
+- GitHub: [@kolikrish](https://github.com/kolikrish)
